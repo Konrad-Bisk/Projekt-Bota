@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f295b10a-f0bc-4bd8-9213-972eba941cad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m9MDZKweKCaXkc0YreHDK3iggN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1610221363000" />
+                <option name="domain" value="sjp.pwn.pl" />
+                <option name="name" value="CAKEPHP" />
+                <option name="path" value="/" />
+                <option name="value" value="cfk81lngevdub6tr66hks6qpsf" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://sjp.pwn.pl/szukaj/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://sjp.pwn.pl/szukaj/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="All in generated-requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="http-request#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-request.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.http-request#1" />
+        <item itemvalue="HTTP Request.All in generated-requests" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f295b10a-f0bc-4bd8-9213-972eba941cad" name="Default Changelist" comment="" />
+      <created>1608901238158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608901238158</updated>
+      <workItem from="1608901240459" duration="1608000" />
+      <workItem from="1608905654736" duration="456000" />
+      <workItem from="1608906970913" duration="10306000" />
+      <workItem from="1609071652139" duration="1375000" />
+      <workItem from="1609084342536" duration="10328000" />
+      <workItem from="1609263483045" duration="2049000" />
+      <workItem from="1609341257155" duration="9430000" />
+      <workItem from="1609511764189" duration="13703000" />
+      <workItem from="1609539849936" duration="3428000" />
+      <workItem from="1609594044904" duration="5213000" />
+      <workItem from="1609676926557" duration="16600000" />
+      <workItem from="1609769518103" duration="14014000" />
+      <workItem from="1609791247604" duration="6014000" />
+      <workItem from="1609871490857" duration="7602000" />
+      <workItem from="1609936874913" duration="13608000" />
+      <workItem from="1610180666653" duration="23133000" />
+      <workItem from="1610280293782" duration="3652000" />
+      <workItem from="1610547920161" duration="1786000" />
+      <workItem from="1610647092100" duration="3909000" />
+      <workItem from="1610724968104" duration="10316000" />
+      <workItem from="1610799527847" duration="7366000" />
+      <workItem from="1610833894231" duration="963000" />
+      <workItem from="1610894296406" duration="8889000" />
+      <workItem from="1610908674535" duration="8000" />
+      <workItem from="1610984766546" duration="10054000" />
+      <workItem from="1611071044193" duration="7466000" />
+      <workItem from="1611166589400" duration="6650000" />
+      <workItem from="1611239762246" duration="2463000" />
+      <workItem from="1611244790644" duration="16407000" />
+      <workItem from="1611266094126" duration="1256000" />
+      <workItem from="1611325096832" duration="23161000" />
+      <workItem from="1611383847626" duration="16002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
